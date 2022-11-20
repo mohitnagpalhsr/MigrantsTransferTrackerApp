@@ -1,0 +1,12 @@
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\bin\Debug\net6.0\MigrantsTransferTrackerDAL.deps.json
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\bin\Debug\net6.0\MigrantsTransferTrackerDAL.dll
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\bin\Debug\net6.0\MigrantsTransferTrackerDAL.pdb
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.csproj.AssemblyReference.cache
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.AssemblyInfoInputs.cache
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.AssemblyInfo.cs
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.csproj.CoreCompileInputs.cache
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.dll
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\refint\MigrantsTransferTrackerDAL.dll
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\MigrantsTransferTrackerDAL.pdb
+C:\Users\mohit\source\repos\test 1\MigrantsTransferTrackerDAL\obj\Debug\net6.0\ref\MigrantsTransferTrackerDAL.dll
